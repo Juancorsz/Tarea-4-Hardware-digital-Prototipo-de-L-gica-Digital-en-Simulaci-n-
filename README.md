@@ -62,3 +62,12 @@ El diseño final fue montado utilizando los bloques lógicos modulares de **Circ
 ## 🧑‍💻 Autor
 
 * **Juan** - Estudiante de Ingeniería, Universidad de Valparaíso.
+
+* 1. Descarga el archivo `tu_archivo.cv` de este repositorio.
+2. Ve al simulador web de 1. Descarga el archivo `tu_archivo.cv` de este repositorio.
+2. Ve al simulador web de [CircuitVerse](https://circuitverse.org).
+3. En el menú superior, haz clic en **Project** (Proyecto) > **Import Project** (Importar Proyecto).
+4. Selecciona el archivo descargado para cargar el diseño..
+5. o link directo para ver: https://circuitverse.org/users/436935/projects/tarea-4-modulo-avanzado-sumador-restador-de-bytes
+3. En el menú superior, haz clic en **Project** (Proyecto) > **Import Project** (Importar Proyecto).
+4. Selecciona el archivo descargado para cargar el diseño.
