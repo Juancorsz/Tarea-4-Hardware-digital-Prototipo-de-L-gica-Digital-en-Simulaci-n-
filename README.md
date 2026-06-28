@@ -1,4 +1,4 @@
-# Sumador/Restador de 4 bits en Paralelo
+# Sumador/Restador de 4 bits 
 
 Este proyecto consiste en el diseño e implementación de un **Sumador/Restador de 4 bits en paralelo** utilizando la arquitectura de **Complemento a 2**. El circuito fue diseñado originalmente para el módulo de Hardware Digital (ISF-215) de la Universidad de Valparaíso.
 
